@@ -1,5 +1,3 @@
-*SCRIPT BAYPASS
-"""""""""""""""
 <?php
 function getExternalContentCurl($url) {
     // Validasi URL
